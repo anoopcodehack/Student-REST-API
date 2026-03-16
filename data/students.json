@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1773640479268",
+    "name": "Anoop",
+    "email": "anoop@gmail.com",
+    "course": "BCA",
+    "year": 3,
+    "createdAt": "2026-03-16T05:54:39.268Z",
+    "updatedAt": "2026-03-16T05:58:21.584Z"
+  },
+  {
+    "id": "1773640575848",
+    "name": "Anoop",
+    "email": "anoop@gmail.com",
+    "course": "BCA",
+    "year": 2,
+    "createdAt": "2026-03-16T05:56:15.848Z",
+    "updatedAt": "2026-03-16T05:56:15.848Z"
+  }
+]
